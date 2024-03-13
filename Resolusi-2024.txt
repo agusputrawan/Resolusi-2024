@@ -1,7 +1,9 @@
 Resolusi 2024
 - Konsisten untuk belajar programming selama 12 jam sehari
- * Bootcamp Excel
-- Membuat mini project untuk CV - selesai
+ * Python
+ * R
+ * SQL
+ - Membuat mini project untuk CV - selesai
 - Mempelajari Matematika dan Statistika yang digunakan
 - Bercita cita untuk bisa menjadi Data Scientist di 2030
 - Bisa berkolaborasi dengan para expert 
